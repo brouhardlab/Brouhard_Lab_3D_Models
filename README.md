@@ -13,4 +13,4 @@ For any questions, contact [Gary Brouhard](gary.brouhard@mcgill.ca).
 
 ## License
 
-[MIT](LICENSE).
+Under [MIT license](LICENSE.md).
