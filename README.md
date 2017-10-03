@@ -9,7 +9,7 @@ To make them, we use the following machines:
 
 ## List of Parts
 
-- [Long Microtubules](./Long%20Microtubules): 11 and 13 PFs microtubule models that allow, once printed, to clearly the difference in twist.
+- [Long Microtubules](./Long%20Microtubules): 11 and 13 PFs microtubule models that allow, once printed, to clearly see the difference in twist.
 
 ## Contact
 
