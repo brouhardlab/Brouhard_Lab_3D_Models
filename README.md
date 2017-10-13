@@ -13,7 +13,7 @@ To make them, we use the following machines:
 
 ## Contact
 
-For any questions, contact [Gary Brouhard](gary.brouhard@mcgill.ca).
+For any questions, contact [Gary Brouhard](mailto:gary.brouhard@mcgill.ca).
 
 ## License
 
