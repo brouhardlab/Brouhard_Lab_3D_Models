@@ -9,8 +9,12 @@ To make them, we use the following machines:
 
 ## Models
 
-- [Two models of long microtubules with 11 and 13 protofilaments](./Long-Microtubules).
+- [Two models of Long Microtubules with 11 and 13 Protofilaments](./Long-Microtubules).
 - [A Microtubule Pencil Case](./Microtubule-Pencil-Case).
+- [Various DNA Gel Combs](./DNA-Gel-Comb).
+- [A Pipette Holder](./Pipette-Holder).
+- [Coverslip Holder](./Coverslip-Holder).
+- [A Coverslip Spin Support](./Spin-Support).
 
 ## Contact
 
