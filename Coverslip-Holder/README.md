@@ -6,4 +6,4 @@ We use a micro-milling machine to make them.
 
 ![Coverslips-Holder](./Coverslips-Holder.png "Coverslips-Holder")
 
-<script src="https://embed.github.com/view/3d/brouhardlab/3d_models/master/">Coverslip-Holder/Coverslips-Holder.STL</script>
+![Coverslips-Holder](./Coverslips-Holder.STL "Coverslips-Holder")
