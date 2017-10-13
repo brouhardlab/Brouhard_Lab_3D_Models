@@ -9,7 +9,7 @@ To make them, we use the following machines:
 
 ## Models
 
-- [Two models of microtubules](./Long-Microtubules).
+- [Two models of long microtubules with 11 and 13 protofilaments](./Long-Microtubules).
 
 ## Contact
 
