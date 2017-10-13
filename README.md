@@ -10,6 +10,7 @@ To make them, we use the following machines:
 ## Models
 
 - [Two models of long microtubules with 11 and 13 protofilaments](./Long-Microtubules).
+- [A Microtubule Pencil Case](./Microtubule-Pencil-Case).
 
 ## Contact
 
