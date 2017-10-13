@@ -5,5 +5,3 @@ This coverslip holder is perfect to manipulate or store 22x22, 18x18 and 22x40mm
 We use a micro-milling machine to make them.
 
 ![Coverslips-Holder](./Coverslips-Holder.png "Coverslips-Holder")
-
-![Coverslips-Holder](./Coverslips-Holder.STL "Coverslips-Holder")
