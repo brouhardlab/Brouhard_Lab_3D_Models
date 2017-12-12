@@ -7,6 +7,8 @@ To make them, we use the following machines:
 - 3D printer: [Objet Eden 260VS from Stratasys](http://www.stratasys.com/3d-printers/objet-eden-260vs)
 - Micro-Milling machine: [Datron Neo from Datron](https://www.datron.com/cnc-machines/datron-neo.php)
 
+Unless specifically indicated, all the dimensions of the STL files are in mm.
+
 ## Models
 
 - [Two models of Long Microtubules with 11 and 13 Protofilaments](./Long-Microtubules).
