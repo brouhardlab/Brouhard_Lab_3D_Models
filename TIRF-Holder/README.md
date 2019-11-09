@@ -1,6 +1,6 @@
 # TIRF Holders
 
-Coverslip holder used for TIRF microscopy.
+Coverslip holder/support used for microscopy.
 
 It comes in two flavors:
 
