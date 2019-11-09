@@ -9,8 +9,16 @@ To make them, we use the following machines:
 
 Unless specifically indicated, all the dimensions of the STL files are in mm.
 
+## File Formats
+
+STL files are provided for all the models. 3D files for modeling are provided depending on the software used to create the model:
+
+- `.sldprt`: for models created with SolidWorks.
+- `.f3d`: for models created wit Autodesk Fusion 360.
+
 ## Models
 
+- [Coverslip holder for TIRF](./TIRF-Holder).
 - [Two models of Long Microtubules with 11 and 13 Protofilaments](./Long-Microtubules).
 - [A Microtubule Pencil Case](./Microtubule-Pencil-Case).
 - [Various DNA Gel Combs](./DNA-Gel-Comb).
