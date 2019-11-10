@@ -1,6 +1,6 @@
 # TIRF Holders
 
-Coverslip holder/support used for microscopy.
+Coverslip holder/support used for microscopy. Originally designed at the Max Planck Institute of Cell Biology and Genetics in Dresden, Germany.
 
 It comes in two flavors:
 
